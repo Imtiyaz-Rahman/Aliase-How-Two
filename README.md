@@ -1,6 +1,6 @@
 # AliasHowTwo - Zsh Alias Setup
 
-Simple aliases for Python virtual environments and Git operations.
+Simple aliases for various situations.
 
 ## Quick Setup
 
@@ -17,7 +17,7 @@ cd AliasHowTwo
 bash setup.sh
 ```
 
-That's it! The aliases are now available in your terminal.
+Aliases are now available in your terminal.
 
 ### Manual Setup (Alternative)
 
@@ -44,4 +44,4 @@ source ~/.zshrc
 
 ## Documentation
 
-See [CHEATSHEET.md](CHEATSHEET.md) for more alias patterns and examples.
+See [CHEATSHEET.md](CHEATSHEET.md) for more alias examples.

@@ -1,4 +1,4 @@
-# AliasHowTwo - Zsh Alias Setup
+# AliasHowTwo - Bash Alias Setup
 
 Simple aliases for various situations.
 
@@ -14,7 +14,7 @@ cd AliasHowTwo
 2. Run the setup script:
 
 ```bash
-bash setup.sh
+./setup.sh
 ```
 
 Aliases are now available in your terminal.
@@ -24,8 +24,8 @@ Aliases are now available in your terminal.
 If you prefer to set up manually:
 
 ```bash
-echo "source $(pwd)/.alias_manager" >> ~/.zshrc
-source ~/.zshrc
+echo "source $(pwd)/.alias_manager" >> ~/.bashrc
+source ~/.bashrc
 ```
 
 ## Available Aliases

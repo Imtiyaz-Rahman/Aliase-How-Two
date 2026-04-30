@@ -1,4 +1,4 @@
-# Zsh Alias Cheatsheet
+# Bash Alias Cheatsheet
 
 ## Basic Syntax
 
@@ -73,7 +73,7 @@ dc='docker-compose'
 
 ```bash
 c='clear'
-reload='source ~/.zshrc'
+reload='source ~/.bashrc'
 ```
 
 ## Tips
@@ -81,5 +81,5 @@ reload='source ~/.zshrc'
 - Keep names short (2-4 chars)
 - Test commands before aliasing
 - Check for conflicts with existing commands
-- Add to `~/.zshrc` for persistence
-- Run `source ~/.zshrc` after changes
+- Add to `~/.bashrc` for persistence
+- Run `source ~/.bashrc` after changes

@@ -7,7 +7,7 @@ Simple aliases for various situations.
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/AliasHowTwo.git
+git clone https://github.com/Imtiyaz-Rahman/AliasHowTwo.git
 cd AliasHowTwo
 ```
 
